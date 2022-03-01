@@ -1,0 +1,121 @@
+id: P8AD2334F
+initial_creation_type: input
+source_metadata:
+  title: Bodhisatvacaryānirdeśa
+  language: bo
+  volumes:
+    62ea3356de0d4041b7ab3d3855a7ac0d:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W45F9DB0D
+    09f1cb18e26f43d2b02ea46230313808:
+      title: Introduction
+      base_file: Introduction.txt
+      work_id: W6B64ACCE
+    b701cf004a32495683f28cb21a805461:
+      title: Title
+      base_file: Title.txt
+      work_id: W75530E33
+    396e3405507548cfb8fa1e98439ebc24:
+      title: §1
+      base_file: §1.txt
+      work_id: W6C193974
+    7569c984875c4ce99a5e785552566233:
+      title: §10
+      base_file: §10.txt
+      work_id: W106647EF
+    864a7921e9124dd6b18c239c4e164ed7:
+      title: §11
+      base_file: §11.txt
+      work_id: W7BC714E3
+    9ea2f74124b14d5f9719757a8475f105:
+      title: §12
+      base_file: §12.txt
+      work_id: W7D714FC1
+    5262188bebb24ad9936011ea03eeeabd:
+      title: §13
+      base_file: §13.txt
+      work_id: WD927161F
+    5405b50c90104520bde68a530a8e1a67:
+      title: §14
+      base_file: §14.txt
+      work_id: W33116FF7
+    e3071744682f4529aabab1cb8a215730:
+      title: §15
+      base_file: §15.txt
+      work_id: W3C4633A5
+    664459c0bfa041618226f21b4a0b4230:
+      title: §16
+      base_file: §16.txt
+      work_id: W89F60FC0
+    bdf6a639e69c466a9d5d0c9fd53c0b28:
+      title: §17
+      base_file: §17.txt
+      work_id: W1452048F
+    034fd48c351c42e1ab8549eacd4ebdee:
+      title: §18
+      base_file: §18.txt
+      work_id: W7D4E04AE
+    087f430e3dcd40598a5b5d194b0d14d0:
+      title: §19
+      base_file: §19.txt
+      work_id: W64A44A86
+    264803e40cd94ba79190b1719e9e411e:
+      title: §2
+      base_file: §2.txt
+      work_id: W5CF566BB
+    67816f491b5c480b8fb40f4709012b6c:
+      title: §20
+      base_file: §20.txt
+      work_id: W0CB40744
+    e8d4b29fbc7d4421840d2d64c2332616:
+      title: §21
+      base_file: §21.txt
+      work_id: W5EF98341
+    b5ce955ada2344c6b4962bfe0a308622:
+      title: §22
+      base_file: §22.txt
+      work_id: W17A47FD7
+    4daff986c52149a4bc08b3c2e2aaaca0:
+      title: §23
+      base_file: §23.txt
+      work_id: W668D0997
+    14e7481e7f354352a910e8e9cf166ed7:
+      title: §24
+      base_file: §24.txt
+      work_id: WF711B3E3
+    fedb80f4ca514630b96c6cd5ff70bae8:
+      title: §25
+      base_file: §25.txt
+      work_id: WAE4A8583
+    5ecc92cbc18a4657bfd10d58a858cbd5:
+      title: §3
+      base_file: §3.txt
+      work_id: W20AD4D00
+    b9cfb784ef5443edb9f0537ad0480815:
+      title: §4
+      base_file: §4.txt
+      work_id: W122202C9
+    de9cb5bfd29b46c3b87c7dd47d4d75a4:
+      title: §5
+      base_file: §5.txt
+      work_id: W5973A55A
+    cffefe2f03d7427c985fae1c96f21414:
+      title: §6
+      base_file: §6.txt
+      work_id: W31442584
+    7b7a539699044ec5a4de92769fca6016:
+      title: §7
+      base_file: §7.txt
+      work_id: W6EA86770
+    025cc597a4b9444788c4a0fb3c7b7c42:
+      title: §8
+      base_file: §8.txt
+      work_id: WA66A6846
+    fa7d42ea30044f75af965005870f5951:
+      title: §9
+      base_file: §9.txt
+      work_id: W965EA9AA
+  chapter_to_tile: {}
+created_at: '2022-03-01T10:31:45.062565'
+last_modified_at: '2022-03-01T10:31:45.062572'
